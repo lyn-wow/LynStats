@@ -1,0 +1,7 @@
+## Interface: 70000
+## Version: 2016.1
+## Author: Lyn
+## Title: LynStats
+## Notes: Good old LynStats a bit polished
+
+stats.lua
